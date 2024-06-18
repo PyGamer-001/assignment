@@ -1,5 +1,10 @@
 ### Extract Information from Websites
-
+Extracts and stores the following data into MySQL database
+- Social Media Links
+- Tech Stack
+- Meta Title
+- Meta Description
+- Payment Gateways (Links where subscription might be asked)
 ### Requirements:
     - Please check "others/requirements.txt" and ensure all the dependencies are installed.
     - Ensure there is "sites.txt" in "files" folder.
